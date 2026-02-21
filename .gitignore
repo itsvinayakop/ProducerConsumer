@@ -1,0 +1,8 @@
+# Hide VS Code folder from repo
+.vscode
+
+# Maven build output
+target/
+
+# OS junk
+.DS_Store
